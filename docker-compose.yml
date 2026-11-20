@@ -1,6 +1,6 @@
 services:
   vowerp-frontend:
-    image: ghcr.io/tarunsadhukhan/sjm3ui:latest
+    image: ghcr.io/sadhukhantks/sjm3ui:latest
     build:
       context: .
       args:
